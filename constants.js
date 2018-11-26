@@ -216,6 +216,7 @@ export const labelsObject = {
 //   { "노랑": ["옐로우", "노랑", "yellow", "YELLOW", "Y", "YW"] }
 // ]
 
+
 // export const labelsObject2 = {
 //   빨강: "레드",
 //   빨강: "빨강",
